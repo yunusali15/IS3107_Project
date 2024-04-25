@@ -1,0 +1,75 @@
+source,author,title,description,url,urlToImage,publishedAt,content
+"{'id': 'fortune', 'name': 'Fortune'}",Niamh Rowe,FTX just sold nearly $2 billion of SOL at a steep discount. Here’s what that means for creditors,The bankrupt crypto exchange FTX has reportedly sold about two-thirds of its $2.6 billion in Solana tokens.,https://fortune.com/crypto/2024/04/05/ftx-just-sold-nearly-2-billion-of-sol-at-a-steep-discount-heres-what-that-means-for-creditors/,"https://fortune.com/img-assets/wp-content/uploads/2024/04/GettyImages-1556974964-e1712334108895.jpg?resize=1200,600",2024-04-05 17:09:41+00:00,"The bankrupt crypto exchange FTX has sold about two-thirds of its $2.6 billion in Solana tokens in a deeply discounted deal, Bloomberg reported on Friday.
+
+The bankruptcy administrators overseeing FTX’s estate sold SOL at $64 per token, sources close to the matter told Bloomberg, raising up to $1.9 billion for the estate. The token, however, was trading at around $177 at the time of publication, according to CoinDesk, although it’s down 6% in the past day.
+
+“I think it is a great deal for the people buying the SOL, but I feel like creditors lost out,” FTX customer and founder of claims-buying platform FTX Creditor Louis d’Origny, told Fortune. “We should have been able to realize the proceeds over time as opposed to instantly. The debtors clearly see no value in crypto assets.”
+
+Buyers in the deal included Galaxy Trading (an arm of Mike Novogratz’s Galaxy Digital) and Pantera Capital. Galaxy Trading reportedly raised close to $620 million for a fund set up to buy the SOL from the FTX estate, and will charge investors in the vehicle a 1% management fee while offering them a staking yield.
+
+Last August, FTX also hired Galaxy Asset Management, another Galaxy Digital unit, to take control of selling off the vast pile of cryptocurrencies held by the estate.
+
+Asset manager Pantera has reportedly also raised money for a fund to buy up to $250 million of SOL from the estate, Bloomberg reported last month. Vancouver-based software company Neptune Digital Assets announced last week that, too, it bought $1.7 million worth of SOL.
+
+Judge John Dorsey, who’s overseeing the case, ruled in January that each claim should be valued on what the creditor was owed on the day FTX filed for bankruptcy. But on Nov. 11, 2022, SOL traded at $16—about 9% of its current market price.
+
+Solana didn’t respond to a request for comment.
+
+Dear FTX creditors,
+
+
+
+Once you’re finished thanking the lawyers for bleeding the estate one hour at a time
+
+
+
+Please direct your gratitude to Galaxy for selling the locked SOL for almost 75% discount to *checks notes* themselves — Mitchell (@WR_Crypto) April 5, 2024
+
+At the sentencing of FTX cofounder and former CEO Sam Bankman-Fried, one victim, Sunil Kavuri, railed against the selling of discounted tokens before Judge Lewis Kaplan, arguing that the assets are owned by the exchange’s former customers, who, to be made whole, should be the ones realizing those gains. “Sam continues to lie that we will all be paid in full,” he told the court, rejecting the view that FTX customers are “unsecured creditors.”
+
+Galaxy sold billions of #FTX customers SOL with 67% discount. Just in case, this is 300%+ return for 2years investment, not talking about staking rewards and positive hedging rates.
+
+I don't know any other country in the world except US where this sale could be legal. In most of… pic.twitter.com/EDWIyuo62T — MHE BE3ET (FTX Customer) (@MHE_BE3ET) April 5, 2024
+
+“I think Galaxy’s private wealth management is winning,” Thomas Braziel of 117 Partners and a broker of bankruptcy claims told Fortune, referencing how the company has secured both a role in the estate’s disinvestment and as a buyer of assets. “They gave themselves a pretty sizable allocation.”
+
+“I don’t think shareholders have a right to be pissed about the discount—that’s just the market,” Braziel added, saying he sees the discounts reducing for additional blocks of tokens. “First we start with a big discount, and then you make the discount smaller over time based on market feedback. It’s just like how you would move anything as a banker.”"
+"{'id': 'fortune', 'name': 'Fortune'}",Leo Schwartz,"Paradigm leads $225 million round for Monad Labs, which is building a layer-1 blockchain to take on Ethereum and Solana",The crypto firm founded by ex-Jump Crypto traders also received investment from Electric Capital and Neil Mehta's Greenoaks Capital.,https://fortune.com/crypto/2024/04/09/monad-paradigm-greenoaks-jump-crypto-funding-225-million/,"https://fortune.com/img-assets/wp-content/uploads/2024/04/crypto-coins-4.jpeg?resize=1200,600",2024-04-09 12:00:00+00:00,"With crypto markets roaring back, different blockchains are jockeying to become the solution that hoovers up demand in the next wave, just as Bitcoin and Ethereum did in past cycles.
+
+A new player on the scene, Monad Labs, finalized a $225 million round led by Paradigm with additional funding by investors including Electric Capital and Greenoaks to build a layer 1 blockchain to challenge competitors such as Solana and Sui. (Fortune previously reported that Monad was in talks with Paradigm to raise money at a $3 billion valuation in March.)
+
+In an exclusive interview, Monad founder Keone Hon said Monad’s innovation comes from rebuilding Ethereum’s blockchain from the ground up—maintaining the ability to execute smart contracts while completing transactions at faster speeds, higher volumes, and lower costs. While other new blockchains have a similar value proposition, Monad is compatible with the program powering Ethereum, the Ethereum Virtual Machine (EVM), meaning developers can port over applications built for Ethereum.
+
+“We’re emerging from roughly two years of development,” Hon said. “At a time when a lot of the research community was focused on roll-up, data availability, and other directions of scaling, Monad basically went really deep on the pure execution side.”
+
+The crowded layer 1 landscape
+
+Since the launch of Bitcoin in 2009, developers have introduced new blockchains that promise an array of new capabilities, from cheaper and faster transactions to applications like decentralized exchanges or lending protocols that can operate on top of a blockchain.
+
+Although Ethereum launched in 2015 with the innovation of smart contracts, it has struggled to scale with increased demand, meaning transactions often come with high execution fees, known as “gas,” or are slow to be processed. More recent competitors—including Solana, which launched in 2020—promised faster speeds at lower costs but still suffer from congestion issues.
+
+Hon worked for eight years at Jump Trading, the secretive Chicago-based high-frequency trading firm, building systems that could process large numbers of transactions quickly. He soon branched out into Jump’s crypto arm, working alongside Monad cofounder James Hunsaker.
+
+“We realized there was a huge need for a more performant EVM, and that in spite of this need, no one was really working on this problem,” Hon told Fortune.
+
+Unlike many new blockchains, Monad will have full support for the EVM bytecode, the standard that many developers build on when coding decentralized applications. Hon described EVM as the Web3 equivalent of JavaScript in the early 2000s. It’s used by blockchains including Ethereum, Polygon, Avalanche, Binance Smart Chain, and Optimism. “Anyone who’s built an app for any of those blockchains can port it into Monad without any changes.”
+
+Avichal Garg, managing partner of Electric Capital, said 90% of developers working on multiple crypto ecosystems are working only in EVM chains, pointing to a recent report from his firm. While that means that Monad doesn’t get the same benefits of redesigning its entire programming language like other new blockchains such as Aptos and Sui, Garg said it still gets most of the benefits.
+
+“The way you go to market is you hit the EVM compatibility and suck over a bunch of devs,” he told Fortune. “To us, it felt like this is the playbook.”
+
+‘A much more performant blockchain’
+
+After raising a $19 million seed round announced in 2023, Monad’s $225 million funding round represents the largest crypto fundraise of 2024 so far, according to Crunchbase’s Web3 Tracker, signaling that the sector’s bear market is beginning to thaw. Paradigm, the crypto VC firm leading the round, is reportedly raising a new fund over $750 million. The round also represents one of the first crypto deals for Greenoaks Capital, the VC firm led by veteran investor Neil Mehta, after a small bet on FTX.
+
+While Jump incubated a number of crypto projects, including Wormhole and Pyth Network, Hon said Monad is completely separate from the trading firm. Jump has been embroiled in scandal due to its role in the collapse of the so-called stablecoin project Terraform Labs led by Do Kwon, whose civil trial resulted in a guilty verdict in federal court last week. Hunsaker testified at the proceedings, where it was revealed that he filed a whistleblower complaint with the Securities and Exchange Commission against his former employer.
+
+Armed with its new round of funding, Hon said that Monad aims to deploy its mainnet by the end of the year, as well as a testnet in the next couple of months. Monad Labs currently has around 30 employees and plans for a native token, although Hon declined to comment on whether it would launch with the mainnet.
+
+While crypto companies continue to chase mainstream adoption, Hon said Monad’s first use case will likely be for the type of high-frequency trading he performed at Jump, citing that the biggest stock and futures exchanges in the world process between 500 million and 1 billion transactions per day.
+
+“If we want the scale of an exchange, like Nasdaq or a CME, to be possible on the blockchain, we need a much more performant blockchain than what exists right now,” he told Fortune.
+
+Hon also pointed to other applications that could be enabled by a blockchain with high transaction capacity and low fees, such as games. A program like RuneScape might have a player picking up 50 items in an hour, meaning that a blockchain-based game would need to update their stats each time, with each update representing a new transaction that needs to be cheap and fast enough to make economic sense on a blockchain.
+
+While VCs are betting big on Monad, Garg said his investment doesn’t preclude other blockchains from succeeding—just in different capacities. “We think of these ecosystems in a non-zero-sum way,” Garg told Fortune. “Just because Facebook exists doesn’t mean that Twitter and LinkedIn and TikTok and Instagram and WhatsApp can’t exist.”"
